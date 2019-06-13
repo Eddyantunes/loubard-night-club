@@ -1,6 +1,6 @@
 // Propriétés concernant la navbar
 nav {
-    background-color: pink !important;
+    background-color: #191b1e !important;
     border-bottom: 3px solid white;
 };
 
@@ -12,7 +12,7 @@ nav {
 
 // Propriétés concernant le survol du logo
 .navbar-brand:hover {
-    color: purple;
+    color: white;
 };
 
 // Propriétés concernant les boutons de la navbar
@@ -24,17 +24,17 @@ nav {
 
 // Propriétés concernant le survol des boutons de la navbar
 .nav-link:hover {
-    color: purple !important;
+    color: white !important;
 };
 
 // Propriétés concernant les boutons dropdown de la navbar
 .dropdown-item {
-    color: pink !important;
+    color: black !important;
 };
 
 // Propriétés concernant le survol des boutons dropdown de la navbar
 .dropdown-item:hover {
-    color: purple !important;
+    color: white !important;
 };
 
 .navbar-collapse {
