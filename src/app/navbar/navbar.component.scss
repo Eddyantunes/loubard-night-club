@@ -37,6 +37,12 @@ nav {
     color: white !important;
 };
 
+// Propriétés concernant tous les boutons de la navbar
 .navbar-collapse {
     margin: 20px !important; 
 };
+
+// Propriété concernant le logo
+.logo {
+    max-height: 100px;
+}
