@@ -1,30 +1,19 @@
 // Propriétés concernant la navbar
 nav {
-    background-color: #191b1e !important;
-    border-bottom: 3px solid white;
-};
-
-// Propriétés concernant le logo
-.navbar-brand {
-    color: white;
-    margin-left: 33px;
-};
-
-// Propriétés concernant le survol du logo
-.navbar-brand:hover {
-    color: white;
+    background-color: white !important;
+    border: 3px solid black;
 };
 
 // Propriétés concernant les boutons de la navbar
 .nav-link {
-    color: white !important;
+    color: black !important;
     margin-right: 50px;
     margin-left: 50px;
 };
 
 // Propriétés concernant le survol des boutons de la navbar
 .nav-link:hover {
-    color: white !important;
+    color: red !important;
 };
 
 // Propriétés concernant les boutons dropdown de la navbar
@@ -34,7 +23,7 @@ nav {
 
 // Propriétés concernant le survol des boutons dropdown de la navbar
 .dropdown-item:hover {
-    color: white !important;
+    color: red !important;
 };
 
 // Propriétés concernant tous les boutons de la navbar
@@ -45,4 +34,5 @@ nav {
 // Propriété concernant le logo
 .logo {
     max-height: 100px;
+    margin-left: 20px;
 }
