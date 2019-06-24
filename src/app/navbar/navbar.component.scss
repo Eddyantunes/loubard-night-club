@@ -37,6 +37,7 @@ nav {
 .logo {
     max-height: 100px;
     margin-left: 20px;
+    background: transparent;
 }
 
 .neon-one {
@@ -57,3 +58,7 @@ nav {
     0px 0px 200px #c336b1, 
     0px 0px 500px #c336b1;
 };
+
+li, a {
+    background: transparent;
+}
