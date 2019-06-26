@@ -19,3 +19,27 @@
 ol {
     background: transparent;
 }
+
+.title {
+    margin-top: 50px;
+    color: white;
+    text-align: center;
+    font-family: 'Nova Square', cursive;
+    background: transparent;
+    font-size: 2rem;
+    text-transform: uppercase;
+    letter-spacing: 0rem;
+    line-height: 1;
+    text-shadow: 0px 0px 10px #c336b1,
+    0px 0px 20px #c336b1, 
+    0px 0px 30px #c336b1, 
+    0px 0px 40px #c336b1, 
+    0px 0px 50px #c336b1, 
+    0px 0px 100px #c336b1, 
+    0px 0px 200px #c336b1, 
+    0px 0px 500px #c336b1;
+}
+
+p {
+    background: transparent;
+}

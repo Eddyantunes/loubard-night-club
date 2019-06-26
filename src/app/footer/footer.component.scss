@@ -1,0 +1,41 @@
+p {
+    color: #f8b3f2;
+    text-align: center;
+    background-color: transparent !important;
+    font-family: 'Nova Square', cursive;
+    font-size: 1rem;
+    margin-bottom: 0rem;
+    padding-bottom: 15px;
+    text-transform: uppercase;
+    text-shadow: 0px 0px 10px #c336b1,
+    0px 0px 20px #c336b1, 
+    0px 0px 30px #c336b1, 
+    0px 0px 40px #c336b1, 
+    0px 0px 50px #c336b1, 
+    0px 0px 100px #c336b1, 
+    0px 0px 200px #c336b1, 
+    0px 0px 500px #c336b1;
+}
+
+.reseaux {
+    border-top: 5px solid #f000ff;
+    box-shadow: 0px -20px 100px #f000ff;
+    background: transparent;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    padding-top: 15px;
+    margin-bottom: 0rem;
+    justify-content: center;
+}
+
+li {
+    background: transparent;
+}
+
+img {
+    width: 50px;
+    background: transparent;
+}
