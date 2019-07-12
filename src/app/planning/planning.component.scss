@@ -24,11 +24,15 @@
 
 img {
     width: 75%;
-    margin-left: 150px;
     border: 5px solid #09c6ee;
     margin-bottom: 150px;
     box-shadow: 0px 7px 100px #09c6ee;
 };
+
+.planning {
+    display: flex;
+    justify-content: center;
+}
 
 p {
     margin-bottom: 0px;

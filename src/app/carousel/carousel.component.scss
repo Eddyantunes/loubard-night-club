@@ -1,13 +1,14 @@
 .panneaux {
-    width: 75%;
     margin-top: 50px;
     margin-bottom: 100px;
-    margin-left: 150px;
-    margin-right: 50px;
+    background: transparent;
+};
+.carousel {
     border: 5px solid #09c6ee;
     box-shadow: 0px 7px 100px #09c6ee;
-};
 
+    width: 75%;
+}
 .carousel-item {
     background: transparent;
 };
@@ -47,3 +48,7 @@ p {
 .title:hover {
     color: #f000ff !important;
 };
+
+img {
+    width: 100%;
+}
