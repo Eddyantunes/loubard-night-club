@@ -1,27 +1,53 @@
-# Website
+<h1 align="center">Welcome to Loubard Night Club 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="https://choosealicense.com/licenses/mit/">
+    <img alt="License: MIT License" src="https://img.shields.io/badge/License-MIT License-yellow.svg" target="_blank" />
+  </a>
+  <a href="https://twitter.com/nikaestu">
+    <img alt="Twitter: nikaestu" src="https://img.shields.io/twitter/follow/nikaestu.svg?style=social" target="_blank" />
+  </a>
+</p>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
+> Website for SkyBuu, ex pro player on rainbow six siege game and now youtuber/streamer. Website represents SkyBuu's personality.
 
-## Development server
+## Install
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+```sh
+npm install
+```
 
-## Code scaffolding
+## Usage
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+```sh
+npm run start
+```
 
-## Build
+## Run tests
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+```sh
+npm run test
+```
 
-## Running unit tests
+## Author
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+👤 **Dylan Le Hir**
 
-## Running end-to-end tests
+* Twitter: [@nikaestu](https://twitter.com/nikaestu)
+* Github: [@dlehir](https://github.com/dlehir)
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+## Show your support
 
-## Further help
+Give a ⭐️ if this project helped you!
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+<a href="https://www.patreon.com/SkyBuu">
+  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+</a>
+
+## 📝 License
+
+Copyright © 2019 [Dylan Le Hir](https://github.com/dlehir).<br />
+This project is [MIT License](https://choosealicense.com/licenses/mit/) licensed.
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
